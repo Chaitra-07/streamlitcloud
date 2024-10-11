@@ -5,3 +5,5 @@ enableXsrfProtection = true
 
 [global]
 debug = false
+[theme]
+showGithubButton = false  # This hides the GitHub icon and link
